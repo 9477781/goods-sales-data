@@ -163,7 +163,7 @@
       "name": "HUB仙台名掛丁店",
       "status": {
         "アクリルスタンド\nレヴィ": "SOLD OUT",
-        "アクリルスタンド\nバラライカ": "販売中",
+        "アクリルスタンド\nバラライカ": "SOLD OUT",
         "アクリルスタンド\nロベルタ": "販売中",
         "アクリルスタンド\nエダ": "SOLD OUT",
         "アクリルスタンド\nシェンホア": "SOLD OUT",
@@ -214,6 +214,6 @@
       }
     }
   ],
-  "lastUpdated": "2026/08/10 22:52",
+  "lastUpdated": "2026/08/11 01:51",
   "backUrl": "https://www.pub-hub.com/index.php/blacklagoon2"
 }
