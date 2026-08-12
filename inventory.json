@@ -90,7 +90,7 @@
     {
       "name": "HUBﾘｯﾁﾓﾝﾄﾞﾎﾃﾙ横浜駅前店",
       "status": {
-        "アクリルスタンド\nレヴィ": "販売中",
+        "アクリルスタンド\nレヴィ": "SOLD OUT",
         "アクリルスタンド\nバラライカ": "SOLD OUT",
         "アクリルスタンド\nロベルタ": "販売中",
         "アクリルスタンド\nエダ": "SOLD OUT",
@@ -214,6 +214,6 @@
       }
     }
   ],
-  "lastUpdated": "2026/08/12 18:43",
+  "lastUpdated": "2026/08/12 18:53",
   "backUrl": "https://www.pub-hub.com/index.php/blacklagoon2"
 }
