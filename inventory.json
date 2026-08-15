@@ -20,7 +20,7 @@
       "status": {
         "アクリルスタンド\nレヴィ": "SOLD OUT",
         "アクリルスタンド\nバラライカ": "SOLD OUT",
-        "アクリルスタンド\nロベルタ": "販売中",
+        "アクリルスタンド\nロベルタ": "SOLD OUT",
         "アクリルスタンド\nエダ": "SOLD OUT",
         "アクリルスタンド\nシェンホア": "SOLD OUT",
         "缶バッジセット": "販売中",
@@ -214,6 +214,6 @@
       }
     }
   ],
-  "lastUpdated": "2026/08/15 13:36",
+  "lastUpdated": "2026/08/15 14:49",
   "backUrl": "https://www.pub-hub.com/index.php/blacklagoon2"
 }
