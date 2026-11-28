@@ -224,7 +224,7 @@
         "トレーディング\nフォトカード【BOX】": "SOLD OUT",
         "トレーディング\nフォトカード【単品】": "SOLD OUT",
         "トレーディング\nミニキャラチャーム【BOX】": "SOLD OUT",
-        "トレーディング\nミニキャラチャーム【単品】": "販売中",
+        "トレーディング\nミニキャラチャーム【単品】": "SOLD OUT",
         "ミニキャラ\nステッカー": "SOLD OUT"
       }
     },
@@ -361,6 +361,6 @@
       }
     }
   ],
-  "lastUpdated": "2026/11/28 15:44",
+  "lastUpdated": "2026/11/28 16:37",
   "backUrl": "https://pubhub.xsrv.jp/index.php/idolishseven_hub"
 }
